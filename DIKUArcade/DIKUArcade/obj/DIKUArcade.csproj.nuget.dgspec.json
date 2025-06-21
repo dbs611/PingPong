@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simon\\Desktop\\exam-a8-team-5-group-4-main\\DIKUArcade\\DIKUArcade\\DIKUArcade.csproj": {}
+    "C:\\Users\\simon\\Desktop\\PingPong-main\\DIKUArcade\\DIKUArcade\\DIKUArcade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simon\\Desktop\\exam-a8-team-5-group-4-main\\DIKUArcade\\DIKUArcade\\DIKUArcade.csproj": {
+    "C:\\Users\\simon\\Desktop\\PingPong-main\\DIKUArcade\\DIKUArcade\\DIKUArcade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simon\\Desktop\\exam-a8-team-5-group-4-main\\DIKUArcade\\DIKUArcade\\DIKUArcade.csproj",
+        "projectUniqueName": "C:\\Users\\simon\\Desktop\\PingPong-main\\DIKUArcade\\DIKUArcade\\DIKUArcade.csproj",
         "projectName": "DIKUArcade",
-        "projectPath": "C:\\Users\\simon\\Desktop\\exam-a8-team-5-group-4-main\\DIKUArcade\\DIKUArcade\\DIKUArcade.csproj",
+        "projectPath": "C:\\Users\\simon\\Desktop\\PingPong-main\\DIKUArcade\\DIKUArcade\\DIKUArcade.csproj",
         "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simon\\Desktop\\exam-a8-team-5-group-4-main\\DIKUArcade\\DIKUArcade\\obj\\",
+        "outputPath": "C:\\Users\\simon\\Desktop\\PingPong-main\\DIKUArcade\\DIKUArcade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\simon\\Desktop\\exam-a8-team-5-group-4-main\\DIKUArcade\\NuGet.Config",
+          "C:\\Users\\simon\\Desktop\\PingPong-main\\DIKUArcade\\NuGet.Config",
           "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Users\\simon\\Desktop\\exam-a8-team-5-group-4-main\\DIKUArcade\\local-nuget": {},
+          "C:\\Users\\simon\\Desktop\\PingPong-main\\DIKUArcade\\local-nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cmcJTBcCM42VKYABlKeBgqByHGJYFJimdoCJoK917UvBlyFE264r682s63Gr9CZyRsDJDb6jODhM9tI9vyIqgA==",
+  "dgSpecHash": "3ZmJsE//MdAphppwEqZccReqhsvRxrzRPumuP+Z4dSpbvy6+7muMc9H9G50LC2hrO8vQU5ZiVA8IXMyY8jjWOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\simon\\Desktop\\exam-a8-team-5-group-4-main\\DIKUArcade\\DIKUArcade\\DIKUArcade.csproj",
+  "projectFilePath": "C:\\Users\\simon\\Desktop\\PingPong-main\\DIKUArcade\\DIKUArcade\\DIKUArcade.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\simon\\.nuget\\packages\\diku.canvas\\2.1.0-alpha1\\diku.canvas.2.1.0-alpha1.nupkg.sha512",
     "C:\\Users\\simon\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512",

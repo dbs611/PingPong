@@ -10,3 +10,15 @@ C:\Users\simon\Desktop\exam-a8-team-5-group-4-main\DIKUArcade\DIKUArcade\obj\Deb
 C:\Users\simon\Desktop\exam-a8-team-5-group-4-main\DIKUArcade\DIKUArcade\obj\Debug\net7.0\refint\DIKUArcade.dll
 C:\Users\simon\Desktop\exam-a8-team-5-group-4-main\DIKUArcade\DIKUArcade\obj\Debug\net7.0\DIKUArcade.pdb
 C:\Users\simon\Desktop\exam-a8-team-5-group-4-main\DIKUArcade\DIKUArcade\obj\Debug\net7.0\ref\DIKUArcade.dll
+C:\Users\simon\Desktop\PingPong-main\DIKUArcade\DIKUArcade\bin\Debug\net7.0\DIKUArcade.deps.json
+C:\Users\simon\Desktop\PingPong-main\DIKUArcade\DIKUArcade\bin\Debug\net7.0\DIKUArcade.dll
+C:\Users\simon\Desktop\PingPong-main\DIKUArcade\DIKUArcade\bin\Debug\net7.0\DIKUArcade.pdb
+C:\Users\simon\Desktop\PingPong-main\DIKUArcade\DIKUArcade\obj\Debug\net7.0\DIKUArcade.csproj.AssemblyReference.cache
+C:\Users\simon\Desktop\PingPong-main\DIKUArcade\DIKUArcade\obj\Debug\net7.0\DIKUArcade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\PingPong-main\DIKUArcade\DIKUArcade\obj\Debug\net7.0\DIKUArcade.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\PingPong-main\DIKUArcade\DIKUArcade\obj\Debug\net7.0\DIKUArcade.AssemblyInfo.cs
+C:\Users\simon\Desktop\PingPong-main\DIKUArcade\DIKUArcade\obj\Debug\net7.0\DIKUArcade.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\PingPong-main\DIKUArcade\DIKUArcade\obj\Debug\net7.0\DIKUArcade.dll
+C:\Users\simon\Desktop\PingPong-main\DIKUArcade\DIKUArcade\obj\Debug\net7.0\refint\DIKUArcade.dll
+C:\Users\simon\Desktop\PingPong-main\DIKUArcade\DIKUArcade\obj\Debug\net7.0\DIKUArcade.pdb
+C:\Users\simon\Desktop\PingPong-main\DIKUArcade\DIKUArcade\obj\Debug\net7.0\ref\DIKUArcade.dll

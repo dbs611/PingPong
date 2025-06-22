@@ -275,26 +275,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/simonthrane/.nuget/packages/": {}
+    "C:\\Users\\simon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/simonthrane/Desktop/HyggeKode/PingPong/DIKUArcade/DIKUArcade/DIKUArcade.csproj",
+      "projectUniqueName": "C:\\Users\\simon\\Desktop\\PingPong-main\\DIKUArcade\\DIKUArcade\\DIKUArcade.csproj",
       "projectName": "DIKUArcade",
-      "projectPath": "/Users/simonthrane/Desktop/HyggeKode/PingPong/DIKUArcade/DIKUArcade/DIKUArcade.csproj",
-      "packagesPath": "/Users/simonthrane/.nuget/packages/",
-      "outputPath": "/Users/simonthrane/Desktop/HyggeKode/PingPong/DIKUArcade/DIKUArcade/obj/",
+      "projectPath": "C:\\Users\\simon\\Desktop\\PingPong-main\\DIKUArcade\\DIKUArcade\\DIKUArcade.csproj",
+      "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\simon\\Desktop\\PingPong-main\\DIKUArcade\\DIKUArcade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/simonthrane/Desktop/HyggeKode/PingPong/DIKUArcade/NuGet.Config",
-        "/Users/simonthrane/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\simon\\Desktop\\PingPong-main\\DIKUArcade\\NuGet.Config",
+        "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/Users/simonthrane/Desktop/HyggeKode/PingPong/DIKUArcade/local-nuget": {},
+        "C:\\Users\\simon\\Desktop\\PingPong-main\\DIKUArcade\\local-nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -334,7 +334,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.410/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   }

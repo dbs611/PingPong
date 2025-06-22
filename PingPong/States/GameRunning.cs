@@ -8,8 +8,6 @@ using DIKUArcade.GUI;
 using DIKUArcade.Input;
 using DIKUArcade.Timers;
 using PingPong;
-using PingPong.Ball;
-using PingPong.Collisions;
 using Microsoft.VisualBasic;
 using PingPong.States;
 

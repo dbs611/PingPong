@@ -10,6 +10,7 @@ using DIKUArcade.Graphics;
 using DIKUArcade.GUI;
 using DIKUArcade.Input;
 using DIKUArcade.Timers;
+using PingPong.States;
 
 public class Game : DIKUGame
 {
